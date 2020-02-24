@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "MongoURI": "mongodb+srv://Artem--socialNetworkApp:12357713a5@cluster0-msihz.azure.mongodb.net/app--io?retryWrites=true&w=majority"
+}
